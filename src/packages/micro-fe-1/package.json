@@ -1,6 +1,6 @@
 {
   "name": "@microfe/micro-fe-1",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,8 +18,8 @@
     "react-dom": "^19.2.8"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.4",
     "typescript": "~6.0.2",
-    "vite": "^8.2.0",
-    "@vitejs/plugin-react": "^6.0.4"
+    "vite": "^8.2.0"
   }
 }
